@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/56775732/scrapy-rules-exclude-certain-urls-with-process-links
+https://github.com/scrapy/scrapy/issues/2820
+https://github.com/scrapy-plugins/scrapy-splash
+https://stackoverflow.com/questions/38400489/example-code-for-scrapy-process-links-and-process-request
+https://stackoverflow.com/questions/45886068/scrapy-crawlspider-splash-how-to-follow-links-through-linkextractor
+https://www.gitmemory.com/issue/scrapy-plugins/scrapy-splash/92/680050082
