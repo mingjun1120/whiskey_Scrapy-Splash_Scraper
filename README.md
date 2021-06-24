@@ -1,19 +1,12 @@
 # whiskey_Scrapy-Splash_Scraper
 This is a web crawler that can help to crawl all the details of Scotch Whisky and also World Whisky from this website [THE WHISKY SHOP](https://www.whiskyshop.com/scotch-whisky)
 
-
-
-
-
 ## Authors
 - Lim Ming Jun
-
   
 ## Documentation
 - [Documentation for Scrapy](https://docs.scrapy.org/en/latest/)
 - [Documentation for Scrapy-Splash](https://github.com/scrapy-plugins/scrapy-splash)
-
-
   
 ## Important Notes!
 This project requires you to install [Docker](https://www.docker.com/products/docker-desktop) in your PC or laptop in order to use Scrapy-Splash. So, I highly recommend you to follow the below tutorials to setup your project.
@@ -22,7 +15,8 @@ Either one of these videos will teach you how to install Docker and setup Scrapy
 - https://youtu.be/RgdaP54RvUM
 
 ## How to run?
-Open up your terminal and **navigate** to the **inner whiskey folder**
+Firstly, open up your installed Docker, go to **Containers/Apps** and then click the **`start`** button for the **scrapinghub/splash** images you have created.
+Then, open up your terminal in vscode or command prompt, **navigate** to the **inner whiskey folder**
 ```
 cd whiskey
 ```
@@ -36,8 +30,8 @@ Then, type any of these commands to **`run`**
 scrapy crawl whiskey_crawl -O whiskey.json
 ```
 
-
 > OR
+
 **Crawled data will stored in CSV file:**
 ```
 scrapy crawl whiskey_crawl -O whiskey.csv
