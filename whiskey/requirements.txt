@@ -1,0 +1,5 @@
+w3lib==1.22.0
+scrapy_splash==0.7.2
+itemadapter==0.2.0
+Scrapy==2.5.0
+itemloaders==1.0.4
