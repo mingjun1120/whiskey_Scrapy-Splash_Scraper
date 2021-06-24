@@ -44,3 +44,7 @@ scrapy crawl whiskey_crawl -O whiskey.csv
 scrapy crawl whiskey_crawl
 ```
 **Note:** **`whiskey_crawl`** is the crawler name
+
+## Example Output
+![image](https://user-images.githubusercontent.com/54136320/123262583-9af4a880-d52a-11eb-9681-70d8653ffc0a.png)
+
