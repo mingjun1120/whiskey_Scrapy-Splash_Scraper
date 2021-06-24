@@ -46,5 +46,6 @@ scrapy crawl whiskey_crawl
 **Note:** **`whiskey_crawl`** is the crawler name
 
 ## Example Output
+After done running
 ![image](https://user-images.githubusercontent.com/54136320/123262583-9af4a880-d52a-11eb-9681-70d8653ffc0a.png)
 
